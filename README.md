@@ -18,8 +18,11 @@
 
 ## Projects
 
-- 🚀 Showcase some of my notable projects.
-- f
+- Objects in C++
+- Linked List
+- Role Play Program
+- Vowel Test
+- Paycheck Program
 
 ## Connect with Me
 
